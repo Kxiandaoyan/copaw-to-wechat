@@ -1,6 +1,5 @@
 # 微信 Channel for CoPaw
 
-标准的CoPaw channel实现，支持双向通信。
 用的是模拟点击,速度很快.   
 得电脑一直挂着微信,不hook,不外挂,基本上不会被封.   
 
@@ -33,4 +32,5 @@
 ## 主动消息
 
 CoPaw可以通过 `to_handle="wechat:好友名"` 主动发送消息到微信。
+
 
